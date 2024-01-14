@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885344185108",
+    "project_id": "umvisaapp",
+    "storage_bucket": "umvisaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885344185108:android:225d58ada56379d351f001",
+        "android_client_info": {
+          "package_name": "com.example.umvisaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEjV5FBjjkNEdl_ePVcOcc42GCxOwPAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
